@@ -1,5 +1,6 @@
 Global Electric Vehicle (EV) Analytics & Business Intelligence Suite
 
+ link - https://sites.google.com/view/projectmedicaps/full-page-embed
 An end-to-end Business Intelligence (BI) and Data Analytics platform built for the rapidly expanding Global Electric Vehicle (EV) market. This repository provides an interactive dashboard, simulated SQL workbench, persona story scenes, clean dataset extraction schema, and integration guides for Python Flask & Tableau Desktop.
 
 📌 Executive Summary & Problem Understanding
